@@ -1,0 +1,8 @@
+$ ruby wpscan.rb -u (url target)
+
+
+$ ruby wpscan.rb -u (url target) –enumerate p (mencari plugins yang terinstall di site korban)
+
+
+$ ruby wpscan.rb -u (url target) –enumerate u (mencari username yang terinstall di site korban)
+
